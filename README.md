@@ -1,5 +1,5 @@
 # WIFI_LAMP
-<img width="620" height="1242" alt="image" src="https://github.com/user-attachments/assets/9668db32-719f-420f-bd84-a802c5682a49" />
+<img width="930" height="1206" alt="image" src="https://github.com/user-attachments/assets/ee52ac70-1054-4ef8-a487-99ab17813d4b" />
 <img width="1684" height="1256" alt="image" src="https://github.com/user-attachments/assets/a06f10ef-3533-4ab4-afca-ee3ba037b855" />
 <img width="1472" height="1030" alt="image" src="https://github.com/user-attachments/assets/293909a9-37e4-4248-b6cf-c4807a6e6b0f" />
 <img width="1242" height="1402" alt="image" src="https://github.com/user-attachments/assets/e30fb3c9-1758-4dd8-8f4d-ef8986b85d8b" />
